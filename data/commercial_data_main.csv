@@ -1,0 +1,461 @@
+location,investigation_type,event_date,country,injury_severity,aircraft_category,make,model,number_of_engines,engine_type,total_fatal_injuries,total_uninjured,total_serious_injuries,total_minor_injuries,latitude,longitude,amateur_built,city,state
+"memphis, tn",accident,2001-11-20,united states,non-fatal,airplane,boeing,727-233,3.0,turbo fan,0.0,0.0,0.0,0.0,35.059444,-90.083056,no,memphis,tn
+"romulus, mi",accident,2001-11-30,united states,non-fatal,airplane,mcdonnell douglas,dc-9-82,2.0,turbo fan,0.0,0.0,1.0,0.0,unknown,unknown,no,romulus,mi
+"chicago, il",incident,2001-12-13,united states,non-fatal,airplane,boeing,737-322,2.0,turbo fan,0.0,0.0,0.0,0.0,unknown,unknown,no,chicago,il
+"anchorage, ak",accident,2001-12-28,united states,non-fatal,airplane,boeing,747-128,4.0,turbo fan,0.0,0.0,0.0,0.0,61.179445,-149.983333,no,anchorage,ak
+"chicago, il",incident,2001-12-28,united states,non-fatal,airplane,boeing,737-522,2.0,turbo fan,0.0,0.0,0.0,0.0,41.979723,-87.904444,no,chicago,il
+"miami, fl",incident,2002-01-01,united states,non-fatal,airplane,mcdonnell douglas,md-83,2.0,turbo fan,0.0,0.0,0.0,0.0,25.799722,-80.295,no,miami,fl
+"greenville, sc",accident,2002-01-02,united states,non-fatal,airplane,boeing,727-200,3.0,turbo fan,0.0,0.0,0.0,0.0,34.885833,-82.2175,no,greenville,sc
+"houston, tx",incident,2002-01-03,united states,non-fatal,airplane,boeing,747-228f,4.0,turbo fan,0.0,0.0,0.0,0.0,29.980278,-95.339722,no,houston,tx
+"dulles, va",accident,2002-01-20,united states,non-fatal,airplane,mcdonnell douglas,dc-9-32,2.0,turbo fan,0.0,0.0,0.0,0.0,38.95,-77.446666,no,dulles,va
+"kotzebue, ak",accident,2002-02-14,united states,non-fatal,airplane,boeing,727-100,3.0,turbo fan,0.0,0.0,0.0,0.0,66.885555,-162.598611,no,kotzebue,ak
+"beaumont, tx",accident,2002-02-19,united states,non-fatal,airplane,boeing,737-724,2.0,turbo fan,0.0,0.0,1.0,0.0,30.070278,-94.215,no,beaumont,tx
+"seattle, wa",accident,2002-03-02,united states,non-fatal,airplane,boeing,757-200,2.0,turbo fan,0.0,0.0,0.0,0.0,unknown,unknown,no,seattle,wa
+"anchorage, ak",accident,2002-03-17,united states,non-fatal,airplane,mcdonnell douglas,md-82,2.0,turbo fan,0.0,0.0,0.0,0.0,61.174445,-149.996389,no,anchorage,ak
+"anchorage, ak",accident,2002-03-17,united states,non-fatal,airplane,mcdonnell douglas,md-11,3.0,turbo fan,0.0,0.0,0.0,0.0,61.174445,-149.996389,no,anchorage,ak
+"jefferson, ny",incident,2002-03-26,united states,non-fatal,airplane,embraer,emb-145lr,2.0,turbo fan,0.0,0.0,0.0,0.0,42.477778,-74.668889,no,jefferson,ny
+"seattle, wa",accident,2002-03-28,united states,non-fatal,airplane,boeing,s-307,4.0,reciprocating,0.0,0.0,0.0,0.0,unknown,unknown,no,seattle,wa
+"atlanta, ga",accident,2002-04-05,united states,non-fatal,airplane,boeing,767-332er,2.0,turbo fan,0.0,0.0,0.0,0.0,33.645,-84.433056,no,atlanta,ga
+"springfield, mo",accident,2002-04-18,united states,non-fatal,airplane,boeing,757-200,2.0,turbo fan,0.0,12.0,3.0,12.0,37.486389,-93.456111,no,springfield,mo
+"pacific ocean, po",accident,2002-05-01,united states,non-fatal,airplane,boeing,747-422,4.0,turbo fan,0.0,6.0,1.0,6.0,-24.3,174.333333,no,pacific ocean,po
+"miami, fl",incident,2002-05-08,united states,non-fatal,airplane,boeing,b737-448,2.0,turbo fan,0.0,0.0,0.0,0.0,unknown,unknown,no,miami,fl
+"chicago, il",accident,2002-05-11,united states,non-fatal,airplane,boeing,757-33n,2.0,turbo fan,0.0,0.0,0.0,0.0,41.785833,-87.752222,no,chicago,il
+"atlanta, ga",accident,2002-05-29,united states,non-fatal,airplane,boeing,757-200,2.0,turbo fan,0.0,0.0,1.0,0.0,33.645,-84.433056,no,atlanta,ga
+"seatac, wa",incident,2002-05-31,united states,non-fatal,airplane,mcdonnell douglas,md-11f,3.0,turbo fan,0.0,0.0,0.0,0.0,47.461111,-122.301667,no,seatac,wa
+"fairfield, il",accident,2002-06-02,united states,non-fatal,airplane,boeing,757-232,2.0,turbo fan,0.0,1.0,1.0,1.0,38.363333,-88.343333,no,fairfield,il
+"wichita, ks",incident,2002-06-04,united states,non-fatal,airplane,mcdonnell douglas,md-82,2.0,turbo fan,0.0,0.0,0.0,0.0,38.139444,-97.370556,no,wichita,ks
+"kansas city, mo",accident,2002-06-16,united states,non-fatal,airplane,mcdonnell douglas,dc-9-82,2.0,turbo fan,0.0,0.0,0.0,0.0,39.297777,-94.713889,no,kansas city,mo
+"houston, tx",accident,2002-07-02,united states,non-fatal,airplane,mcdonnell douglas,md-88,2.0,turbo fan,0.0,0.0,0.0,0.0,29.645277,-95.278889,no,houston,tx
+"jamaica, ny",accident,2002-08-11,united states,non-fatal,airplane,boeing,747-256,4.0,turbo fan,0.0,35.0,2.0,35.0,40.639722,-73.778889,no,jamaica,ny
+"baltimore, md",accident,2002-09-09,united states,non-fatal,airplane,boeing,757-251,2.0,turbo fan,0.0,0.0,0.0,0.0,39.165,-76.663333,no,baltimore,md
+"miami, fl",incident,2002-09-13,united states,non-fatal,airplane,boeing,737-823,2.0,turbo fan,0.0,0.0,0.0,0.0,25.793333,-80.290555,no,miami,fl
+"anchorage, ak",incident,2002-10-09,united states,non-fatal,airplane,boeing,747-400,4.0,turbo fan,0.0,0.0,0.0,0.0,61.174445,-149.996389,no,anchorage,ak
+"boston, ma",incident,2002-10-19,united states,non-fatal,airplane,boeing,767-222,2.0,turbo fan,0.0,0.0,0.0,0.0,42.375,-71.002778,no,boston,ma
+"cleveland, oh",accident,2003-01-06,united states,non-fatal,airplane,embraer,erj-145lr,2.0,turbo fan,0.0,0.0,0.0,0.0,41.445833,-81.8425,no,cleveland,oh
+"kahului, hi",incident,2003-01-11,united states,non-fatal,airplane,boeing,717-200,2.0,turbo fan,0.0,0.0,0.0,0.0,20.9,-156.433333,no,kahului,hi
+"salt lake city, ut",incident,2003-01-11,united states,non-fatal,airplane,boeing,757-222,2.0,turbo fan,0.0,0.0,0.0,0.0,40.788333,-111.992777,no,salt lake city,ut
+"jamaica, ny",incident,2003-01-14,united states,non-fatal,airplane,mcdonnell douglas,md-11-c,3.0,turbo fan,0.0,0.0,0.0,0.0,40.639722,-73.778889,no,jamaica,ny
+"flushing, ny",accident,2003-01-19,united states,non-fatal,airplane,boeing,757-251,2.0,turbo fan,0.0,6.0,1.0,6.0,40.777223,-73.8725,no,flushing,ny
+"miami, fl",accident,2003-02-25,united states,non-fatal,airplane,boeing,777-223,2.0,turbo fan,0.0,0.0,2.0,0.0,25.949722,-81.2525,no,miami,fl
+"seattle, wa",incident,2003-03-14,united states,non-fatal,airplane,boeing,dc-9-82,2.0,turbo fan,0.0,0.0,0.0,0.0,47.448889,-122.309444,no,seattle,wa
+"flushing, ny",accident,2003-03-26,united states,non-fatal,airplane,boeing,717-200,2.0,turbo fan,0.0,22.0,1.0,22.0,40.777778,-73.875556,no,flushing,ny
+"palestine, tx",accident,2003-04-06,united states,non-fatal,airplane,boeing,737-924,2.0,turbo fan,0.0,0.0,1.0,0.0,12.622223,-96.103889,no,palestine,tx
+"salt lake city, ut",incident,2003-04-17,united states,non-fatal,airplane,boeing,757-232,2.0,turbo fan,0.0,0.0,0.0,0.0,40.788333,-111.977778,no,salt lake city,ut
+"lithonia, ga",accident,2003-04-21,united states,non-fatal,airplane,boeing,757-222,2.0,turbo fan,0.0,1.0,1.0,1.0,33.743889,-84.0425,no,lithonia,ga
+"denver, co",accident,2003-04-22,united states,non-fatal,airplane,mcdonnell douglas,md-88,2.0,turbo fan,0.0,1.0,0.0,1.0,39.858333,-104.666945,no,denver,co
+"new market, va",accident,2003-05-07,united states,non-fatal,airplane,boeing,b767-300,2.0,turbo fan,0.0,0.0,1.0,0.0,38.635555,-78.666667,no,new market,va
+"amarillo, tx",accident,2003-05-24,united states,non-fatal,airplane,boeing,737-300,2.0,turbo fan,0.0,0.0,0.0,0.0,35.221111,-101.71,no,amarillo,tx
+"dodge city, ks",incident,2003-06-10,united states,non-fatal,airplane,boeing,757-200,2.0,turbo fan,0.0,1.0,0.0,1.0,unknown,unknown,no,dodge city,ks
+"taylor, fl",accident,2003-06-18,united states,non-fatal,airplane,embraer,emb-145lr,2.0,turbo fan,0.0,0.0,1.0,0.0,30.498889,-82.2925,no,taylor,fl
+"tampa, fl",accident,2003-06-23,united states,non-fatal,airplane,boeing,757-232,2.0,turbo fan,0.0,27.0,3.0,27.0,27.975556,-82.533333,no,tampa,fl
+"boston, ma",accident,2003-06-24,united states,non-fatal,airplane,embraer,emb-135-kl,2.0,turbo fan,0.0,0.0,0.0,0.0,42.364167,-71.005,no,boston,ma
+"chicago, il",accident,2003-07-17,united states,non-fatal,airplane,boeing,b777-222,2.0,turbo fan,0.0,0.0,1.0,0.0,41.979723,-87.904444,no,chicago,il
+"wadsworth, oh",accident,2003-07-22,united states,non-fatal,airplane,boeing,757-251,2.0,turbo fan,0.0,2.0,1.0,2.0,41.024723,-81.727223,no,wadsworth,oh
+"wooster, oh",accident,2003-08-16,united states,non-fatal,airplane,boeing,737-800,2.0,turbo fan,0.0,2.0,1.0,2.0,40.991389,-81.888055,no,wooster,oh
+"honolulu, hi",incident,2003-08-18,united states,non-fatal,airplane,airbus,a340-300,4.0,turbo fan,0.0,0.0,0.0,0.0,21.318611,-157.9225,no,honolulu,hi
+"miami, fl",incident,2003-08-24,united states,non-fatal,airplane,boeing,757-223,2.0,turbo fan,0.0,0.0,0.0,0.0,25.793055,-80.290555,no,miami,fl
+"flushing, ny",accident,2003-09-27,united states,non-fatal,airplane,embraer,emb-135,2.0,turbo fan,0.0,0.0,0.0,0.0,40.777223,-73.8725,no,flushing,ny
+"boston, ma",accident,2003-10-04,united states,non-fatal,airplane,boeing,737,2.0,turbo fan,0.0,0.0,0.0,0.0,42.364167,-71.005,no,boston,ma
+"san francisco, ca",accident,2003-10-07,united states,non-fatal,airplane,boeing,777-281,2.0,turbo fan,0.0,0.0,0.0,0.0,37.618889,-122.374723,no,san francisco,ca
+"san francisco, ca",accident,2003-10-07,united states,non-fatal,airplane,boeing,777-22b,2.0,turbo fan,0.0,0.0,0.0,0.0,37.618889,-122.374723,no,san francisco,ca
+"denver, co",accident,2003-11-01,united states,non-fatal,airplane,boeing,737-500,2.0,turbo fan,0.0,1.0,1.0,1.0,40.491944,-105.236389,no,denver,co
+"san francisco, ca",accident,2003-11-14,united states,non-fatal,airplane,boeing,747-422,4.0,turbo fan,0.0,0.0,0.0,0.0,37.618889,-122.391389,no,san francisco,ca
+"denver, co",incident,2003-11-29,united states,non-fatal,airplane,boeing,737-3m8,2.0,turbo fan,0.0,0.0,0.0,0.0,39.858333,-104.666945,no,denver,co
+"memphis, tn",accident,2003-12-18,united states,non-fatal,airplane,mcdonnell douglas,md-10-10f,3.0,turbo fan,0.0,2.0,0.0,2.0,unknown,unknown,no,memphis,tn
+"miami, fl",incident,2004-02-19,united states,non-fatal,airplane,boeing,767-300 er,2.0,turbo fan,0.0,0.0,0.0,0.0,25.783333,-80.283333,no,miami,fl
+"janesville, wi",accident,2004-03-01,united states,non-fatal,airplane,boeing,757-200,2.0,turbo fan,0.0,0.0,1.0,0.0,42.619445,-89.040277,no,janesville,wi
+"atlanta, ga",incident,2004-03-05,united states,non-fatal,airplane,boeing,717-200,2.0,turbo fan,0.0,0.0,0.0,0.0,33.640277,-84.085277,no,atlanta,ga
+"atlantic ocean, ao",accident,2004-04-10,united states,non-fatal,airplane,mcdonnell douglas,dc-10-30,3.0,turbo fan,0.0,0.0,0.0,0.0,60,-60,no,atlantic ocean,ao
+"st. louis, mo",accident,2004-04-10,united states,non-fatal,airplane,boeing,737-300,2.0,turbo fan,0.0,0.0,1.0,0.0,38.747777,-90.36,no,st. louis,mo
+"beach haven, nj",accident,2004-04-14,united states,non-fatal,airplane,boeing,737-700,2.0,turbo fan,0.0,0.0,1.0,0.0,39.523334,-74.138611,no,beach haven,nj
+"anchorage, ak",incident,2004-05-31,united states,non-fatal,airplane,boeing,757-251,2.0,turbo fan,0.0,1.0,0.0,1.0,61.174445,-149.996389,no,anchorage,ak
+"liberal, ks",accident,2004-06-04,united states,non-fatal,airplane,boeing,737-7h4,2.0,turbo fan,0.0,0.0,1.0,0.0,36.841944,-100.766667,no,liberal,ks
+"dallas, tx",incident,2004-06-11,united states,non-fatal,airplane,embraer,emb-135lr,2.0,turbo fan,0.0,1.0,0.0,1.0,32.891389,-97.036111,no,dallas,tx
+"sheridan, il",accident,2004-07-15,united states,non-fatal,airplane,mcdonnell douglas,dc-9-82,2.0,turbo fan,0.0,0.0,1.0,0.0,41.511667,-88.705833,no,sheridan,il
+"miami, fl",accident,2004-07-25,united states,non-fatal,airplane,boeing,777,2.0,turbo fan,0.0,0.0,1.0,0.0,unknown,unknown,no,miami,fl
+"denver, co",incident,2004-08-07,united states,non-fatal,airplane,boeing,737-500,2.0,turbo fan,0.0,0.0,0.0,0.0,39.851111,-104.667223,no,denver,co
+"houston, tx",incident,2004-08-11,united states,non-fatal,airplane,boeing,b-777,2.0,turbo fan,0.0,0.0,0.0,0.0,unknown,unknown,no,houston,tx
+"los angeles, ca",incident,2004-08-19,united states,non-fatal,airplane,boeing,737-7h4,2.0,turbo fan,0.0,0.0,0.0,0.0,33.9425,-118.408056,no,los angeles,ca
+"clyde, ny",accident,2004-08-29,united states,non-fatal,airplane,embraer,emb-135kl,2.0,turbo fan,0.0,0.0,1.0,0.0,43.15,-76.9,no,clyde,ny
+"los angeles, ca",accident,2004-09-13,united states,non-fatal,airplane,boeing,737-3h4,2.0,turbo fan,0.0,0.0,1.0,0.0,33.9425,-118.408056,no,los angeles,ca
+"chicago, il",incident,2004-09-16,united states,non-fatal,airplane,mcdonnell douglas,dc-9-82,2.0,turbo fan,0.0,0.0,0.0,0.0,41.978611,-87.904722,no,chicago,il
+"memphis, tn",accident,2004-09-19,united states,non-fatal,airplane,boeing,md-11,3.0,turbo fan,0.0,0.0,0.0,0.0,unknown,unknown,no,memphis,tn
+"anchorage, ak",incident,2004-09-26,united states,non-fatal,airplane,mcdonnell douglas,md-82,2.0,turbo fan,0.0,0.0,0.0,0.0,61.179445,-149.983333,no,anchorage,ak
+"denver, co",incident,2004-11-21,united states,non-fatal,airplane,mcdonnell douglas,dc-9-82,2.0,turbo fan,0.0,0.0,0.0,0.0,39.8275,-104.660556,no,denver,co
+"cleveland, oh",accident,2004-11-29,united states,non-fatal,airplane,embraer,emb-135bj,2.0,turbo fan,0.0,0.0,0.0,0.0,41.411667,-81.849722,no,cleveland,oh
+"anchorage, ak",incident,2004-12-05,united states,non-fatal,airplane,boeing,747sr-146b sf,4.0,turbo fan,0.0,0.0,0.0,0.0,61.174445,-149.996389,no,anchorage,ak
+"providence, ri",accident,2004-12-20,united states,non-fatal,airplane,mcdonnell douglas,md-82,2.0,turbo fan,0.0,0.0,0.0,0.0,41.723889,-71.428334,no,providence,ri
+"anchorage, ak",incident,2004-12-29,united states,non-fatal,airplane,boeing,747-123,4.0,turbo fan,0.0,0.0,0.0,0.0,61.174445,-149.996389,no,anchorage,ak
+"gunnison, co",accident,2005-01-08,united states,non-fatal,airplane,boeing,737-724,2.0,turbo fan,0.0,1.0,0.0,1.0,unknown,unknown,no,gunnison,co
+"covington, ky",accident,2005-01-17,united states,non-fatal,airplane,boeing,737-247,2.0,turbo fan,0.0,0.0,0.0,0.0,39.046111,-84.661944,no,covington,ky
+"seattle, wa",incident,2005-01-30,united states,non-fatal,airplane,boeing,737-3h4,2.0,turbo fan,0.0,0.0,0.0,0.0,47.448889,-122.309444,no,seattle,wa
+"newark, nj",accident,2005-03-02,united states,non-fatal,airplane,boeing,777-200,2.0,turbo fan,0.0,0.0,0.0,0.0,40.698611,-74.17,no,newark,nj
+"boston, ma",accident,2005-03-06,united states,non-fatal,airplane,boeing,757-232,2.0,turbo fan,0.0,3.0,1.0,3.0,42.364444,-71.005278,no,boston,ma
+"newark, nj",accident,2005-03-16,united states,non-fatal,airplane,boeing,737-72t,2.0,turbo fan,0.0,0.0,0.0,0.0,40.6925,-74.168611,no,newark,nj
+"raleigh, nc",accident,2005-03-20,united states,non-fatal,airplane,embraer,emb-135lr,2.0,turbo fan,0.0,0.0,1.0,0.0,35.866667,-78.790277,no,raleigh,nc
+"anchorage, ak",incident,2005-04-28,united states,non-fatal,airplane,mcdonnell douglas,md-11,3.0,turbo fan,0.0,0.0,0.0,0.0,61.174445,-149.996389,no,anchorage,ak
+"little rock, ar",accident,2005-04-29,united states,non-fatal,airplane,boeing,737-700,2.0,turbo fan,0.0,0.0,1.0,0.0,35.367223,-91.202222,no,little rock,ar
+"minneapolis, mn",accident,2005-05-10,united states,non-fatal,airplane,mcdonnell douglas,dc-9-51,2.0,turbo fan,0.0,7.0,1.0,7.0,44.880556,-93.216945,no,minneapolis,mn
+"union star, mo",incident,2005-05-12,united states,non-fatal,airplane,boeing,717-200,2.0,turbo fan,0.0,0.0,0.0,0.0,39.966667,-94.583333,no,union star,mo
+"denver, co",accident,2005-05-13,united states,non-fatal,airplane,mcdonnell douglas,md-88,2.0,turbo fan,0.0,0.0,0.0,0.0,unknown,unknown,no,denver,co
+"denver, co",incident,2005-05-17,united states,non-fatal,airplane,boeing,737-322,2.0,turbo fan,0.0,0.0,0.0,0.0,39.861667,-104.673056,no,denver,co
+"denver, co",incident,2005-05-17,united states,non-fatal,airplane,boeing,737-322,2.0,turbo fan,0.0,0.0,0.0,0.0,39.861667,-104.673056,no,denver,co
+"kansas city, mo",incident,2005-05-19,united states,non-fatal,airplane,embraer,emb-145lr,2.0,turbo fan,0.0,0.0,0.0,0.0,unknown,unknown,no,kansas city,mo
+"denver, co",incident,2005-05-28,united states,non-fatal,airplane,mcdonnell douglas,dc-9-82,2.0,turbo fan,0.0,0.0,0.0,0.0,39.861389,-104.673056,no,denver,co
+"new chicago, in",accident,2005-06-05,united states,non-fatal,airplane,boeing,757-223,2.0,turbo fan,0.0,1.0,1.0,1.0,41.56,-87.274445,no,new chicago,in
+"louisville, ky",accident,2005-06-07,united states,non-fatal,airplane,mcdonnell douglas,md-11f,3.0,turbo fan,0.0,0.0,0.0,0.0,38.174167,-85.735833,no,louisville,ky
+"boston, ma",incident,2005-06-09,united states,non-fatal,airplane,boeing,737-3b7,2.0,turbo fan,0.0,0.0,0.0,0.0,42.364167,-71.005,no,boston,ma
+"salt lake city, ut",incident,2005-06-19,united states,non-fatal,airplane,boeing,737-524,2.0,turbo fan,0.0,0.0,0.0,0.0,47.303333,-111.973334,no,salt lake city,ut
+"san diego, ca",accident,2005-06-27,united states,non-fatal,airplane,boeing,727-230,3.0,turbo fan,0.0,0.0,0.0,0.0,32.733611,-117.189722,no,san diego,ca
+"chicago, il",accident,2005-07-08,united states,non-fatal,airplane,boeing,737-7h4,2.0,turbo fan,0.0,0.0,0.0,0.0,41.785833,-87.7525,no,chicago,il
+"raleigh-durham, nc",accident,2005-07-11,united states,non-fatal,airplane,boeing,767-232,2.0,turbo fan,0.0,0.0,1.0,0.0,35.4,-80.666667,no,raleigh-durham,nc
+"denver, co",incident,2005-08-03,united states,non-fatal,airplane,airbus,a320-232,2.0,turbo fan,0.0,0.0,0.0,0.0,39.861667,-104.673056,no,denver,co
+"agana, gu",accident,2005-08-19,united states,non-fatal,airplane,boeing,747-200,4.0,turbo fan,0.0,2.0,0.0,2.0,unknown,unknown,no,agana,gu
+"chicago, il",accident,2005-08-20,united states,non-fatal,airplane,boeing,757-33n,2.0,turbo fan,0.0,0.0,0.0,0.0,41.7875,-87.754167,no,chicago,il
+"fort lauderdale, fl",accident,2005-09-18,united states,non-fatal,airplane,airbus,a321-231,2.0,turbo fan,0.0,0.0,0.0,0.0,unknown,unknown,no,fort lauderdale,fl
+"phoenix, az",accident,2005-10-12,united states,non-fatal,airplane,boeing,737-3h4,2.0,turbo fan,0.0,0.0,0.0,0.0,33.433333,-111.984722,no,phoenix,az
+"phoenix, az",accident,2005-10-12,united states,non-fatal,airplane,boeing,737-7h4,2.0,turbo fan,0.0,0.0,0.0,0.0,33.433333,-111.984722,no,phoenix,az
+"atlantic ocean, ao",accident,2005-10-22,united states,non-fatal,airplane,boeing,737-832,2.0,turbo fan,0.0,2.0,1.0,2.0,38.75,-68.133333,no,atlantic ocean,ao
+"san antonio, tx",accident,2005-10-22,united states,non-fatal,airplane,boeing,727-225,3.0,turbo fan,0.0,0.0,1.0,0.0,29.533611,-98.469723,no,san antonio,tx
+"state college, pa",accident,2005-11-19,united states,non-fatal,airplane,boeing,737-800,2.0,turbo fan,0.0,0.0,0.0,0.0,40.849166,-77.848611,no,state college,pa
+"chicago, il",accident,2005-11-28,united states,non-fatal,airplane,mcdonnell douglas,md-10,3.0,turbo fan,0.0,0.0,0.0,0.0,41.979723,-87.904444,no,chicago,il
+"chicago, il",accident,2005-12-08,united states,non-fatal,airplane,boeing,737-700,2.0,turbo fan,1.0,21.0,1.0,21.0,unknown,unknown,no,chicago,il
+"los angeles, ca",accident,2005-12-19,united states,non-fatal,airplane,boeing,747-400,4.0,turbo fan,0.0,0.0,0.0,0.0,33.9425,-118.413333,no,los angeles,ca
+"boston, ma",incident,2005-12-20,united states,non-fatal,airplane,boeing,717-200,2.0,turbo fan,0.0,0.0,0.0,0.0,42.364167,-71.005,no,boston,ma
+"seattle, wa",accident,2005-12-26,united states,non-fatal,airplane,mcdonnell douglas,md-83,2.0,turbo fan,0.0,0.0,0.0,0.0,47.448889,-122.309444,no,seattle,wa
+"denver, co",incident,2006-01-19,united states,non-fatal,airplane,boeing,b777-200b,2.0,turbo fan,0.0,0.0,0.0,0.0,39.858333,-104.666667,no,denver,co
+"boston, ma",accident,2006-02-25,united states,non-fatal,airplane,boeing,757-232,2.0,turbo fan,0.0,0.0,0.0,0.0,42.364444,-71.005278,no,boston,ma
+"omaha, ne",accident,2006-03-15,united states,non-fatal,airplane,boeing,757-222,2.0,turbo fan,0.0,0.0,1.0,0.0,41.303056,-95.894166,no,omaha,ne
+"denver, co",incident,2006-03-21,united states,non-fatal,airplane,mcdonnell douglas,dc-9-82,2.0,turbo fan,0.0,0.0,0.0,0.0,39.861389,-104.673056,no,denver,co
+"memphis, tn",accident,2006-04-04,united states,non-fatal,airplane,mcdonnell douglas,dc10,3.0,turbo fan,0.0,0.0,0.0,0.0,unknown,unknown,no,memphis,tn
+"denver, co",incident,2006-04-23,united states,non-fatal,airplane,boeing,747-400,4.0,turbo fan,0.0,0.0,0.0,0.0,39.861667,-104.673056,no,denver,co
+"dfw int'l apt, tx",accident,2006-04-25,united states,non-fatal,airplane,boeing,777-233er,2.0,turbo fan,0.0,0.0,1.0,0.0,32.891389,-97.036111,no,dfw int'l apt,tx
+"boston, ma",accident,2006-05-12,united states,non-fatal,airplane,embraer,emb-145-lr,2.0,turbo fan,0.0,1.0,0.0,1.0,42.364444,-71.005278,no,boston,ma
+"winchester, va",accident,2006-05-13,united states,non-fatal,airplane,embraer,145lr,2.0,turbo fan,0.0,0.0,1.0,0.0,39.138333,-78.12,no,winchester,va
+"portland, or",incident,2006-05-17,united states,non-fatal,airplane,boeing,757-222,2.0,turbo fan,0.0,0.0,0.0,0.0,45.588611,-122.5975,no,portland,or
+"fairbanks, ak",incident,2006-05-18,united states,non-fatal,airplane,mcdonnell douglas,md-83,2.0,turbo fan,0.0,0.0,0.0,0.0,64.8,-147.85,no,fairbanks,ak
+"dulles, va",accident,2006-05-30,united states,non-fatal,airplane,embraer,emb-170,2.0,turbo fan,0.0,0.0,1.0,0.0,38.944444,-77.455556,no,dulles,va
+"los angeles, ca",incident,2006-06-02,united states,non-fatal,airplane,boeing,767-223(er),2.0,turbo fan,0.0,0.0,0.0,0.0,unknown,unknown,no,los angeles,ca
+"new york, ny",accident,2006-06-08,united states,non-fatal,airplane,boeing,737-300,2.0,turbo fan,0.0,0.0,0.0,0.0,40.777223,-73.8725,no,new york,ny
+"denver, co",incident,2006-06-09,united states,non-fatal,airplane,mcdonnell douglas,md-90-30,2.0,turbo fan,0.0,0.0,0.0,0.0,39.851667,-104.666667,no,denver,co
+"dulles, va",accident,2006-06-17,united states,non-fatal,airplane,boeing,767-300,2.0,turbo fan,0.0,0.0,0.0,0.0,38.945,-77.456667,no,dulles,va
+"chicago, il",accident,2006-06-20,united states,non-fatal,airplane,mcdonnell douglas,dc-9-83,2.0,turbo fan,0.0,0.0,0.0,0.0,41.978611,-87.904722,no,chicago,il
+"masonville, co",accident,2006-07-07,united states,non-fatal,airplane,airbus,a319-131,2.0,turbo fan,0.0,0.0,1.0,0.0,39.85,-104.677223,no,masonville,co
+"newark, nj",accident,2006-07-24,united states,non-fatal,airplane,embraer,emb-135lr,2.0,turbo fan,0.0,0.0,0.0,0.0,40.6925,-74.168611,no,newark,nj
+"pittsburgh, pa",accident,2006-07-27,united states,non-fatal,airplane,boeing,737-300,2.0,turbo fan,0.0,3.0,0.0,3.0,40.488055,-80.226389,no,pittsburgh,pa
+"memphis, tn",accident,2006-07-28,united states,non-fatal,airplane,boeing,md-10-10f,3.0,turbo fan,0.0,0.0,0.0,0.0,unknown,unknown,no,memphis,tn
+"long beach, ca",incident,2006-08-20,united states,non-fatal,airplane,mcdonnell douglas,dc-9-83,2.0,turbo fan,0.0,0.0,0.0,0.0,33.818334,-118.152778,no,long beach,ca
+"newark, nj",incident,2006-08-21,united states,non-fatal,airplane,boeing,737-524,2.0,turbo fan,0.0,0.0,0.0,0.0,40.6925,-74.168611,no,newark,nj
+"miami, fl",incident,2006-08-31,united states,non-fatal,airplane,boeing,737-400,2.0,turbo fan,0.0,0.0,0.0,0.0,25.793333,-80.290555,no,miami,fl
+"san juan, pr",accident,2006-09-05,united states,non-fatal,airplane,boeing,b757-232,2.0,turbo fan,0.0,0.0,0.0,0.0,unknown,unknown,no,san juan,pr
+"new york, ny",accident,2006-09-08,united states,non-fatal,airplane,embraer,emb-170,2.0,turbo fan,0.0,0.0,0.0,0.0,40.777223,-73.8725,no,new york,ny
+"denver, co",accident,2006-10-11,united states,non-fatal,airplane,mcdonnell douglas,md-90-30,2.0,turbo fan,0.0,0.0,0.0,0.0,39.861667,-104.673056,no,denver,co
+"los angeles, ca",incident,2006-10-19,united states,non-fatal,airplane,boeing,737-790,2.0,turbo fan,0.0,0.0,0.0,0.0,33.948611,-118.413611,no,los angeles,ca
+"newark, nj",accident,2006-10-31,united states,non-fatal,airplane,boeing,747-400,4.0,turbo fan,0.0,0.0,0.0,0.0,40.6925,-74.168611,no,newark,nj
+"milwaukee, wi",accident,2006-11-07,united states,non-fatal,airplane,boeing,717-200,2.0,turbo fan,0.0,0.0,0.0,0.0,42.947222,-87.896666,no,milwaukee,wi
+"milwaukee, wi",accident,2006-11-07,united states,non-fatal,airplane,boeing,717-200,2.0,turbo fan,0.0,0.0,0.0,0.0,42.947222,-87.896666,no,milwaukee,wi
+"chicago, il",accident,2006-11-07,united states,non-fatal,airplane,airbus,a-320-200,2.0,turbo fan,0.0,0.0,0.0,0.0,41.978611,-87.904722,no,chicago,il
+"memphis, tn",accident,2006-11-10,united states,non-fatal,airplane,boeing,717-200,2.0,turbo fan,0.0,0.0,0.0,0.0,35.038611,-89.972778,no,memphis,tn
+"colorado spring, co",incident,2006-12-15,united states,non-fatal,airplane,boeing,737-824,2.0,turbo fan,0.0,1.0,0.0,1.0,38.809167,-104.700833,no,colorado spring,co
+"anchorage, ak",accident,2006-12-23,united states,non-fatal,airplane,boeing,747-228f,4.0,turbo fan,0.0,0.0,0.0,0.0,61.174445,-149.996389,no,anchorage,ak
+"san diego, ca",accident,2006-12-26,united states,non-fatal,airplane,boeing,737-3a4,2.0,turbo fan,0.0,0.0,0.0,0.0,32.733611,-117.189722,no,san diego,ca
+"miami, fl",incident,2006-12-26,united states,non-fatal,airplane,boeing,747-436,4.0,turbo fan,0.0,0.0,0.0,0.0,25.793333,-80.290555,no,miami,fl
+"san diego, ca",accident,2006-12-26,united states,non-fatal,airplane,boeing,737-7h4,2.0,turbo fan,0.0,0.0,0.0,0.0,32.733611,-117.189722,no,san diego,ca
+"jfk, ny",incident,2007-01-07,united states,non-fatal,airplane,mcdonnell douglas,md11,3.0,turbo fan,0.0,0.0,0.0,0.0,unknown,unknown,no,jfk,ny
+"miami, fl",incident,2007-02-04,united states,non-fatal,airplane,mcdonnell douglas,dc-8-71f,4.0,turbo fan,0.0,0.0,0.0,0.0,25.793055,-80.290555,no,miami,fl
+"cleveland, oh",accident,2007-02-18,united states,non-fatal,airplane,embraer,erj-170,2.0,turbo fan,0.0,0.0,0.0,0.0,41.411667,-81.849722,no,cleveland,oh
+"chicago, il",accident,2007-02-23,united states,non-fatal,airplane,boeing,777,2.0,turbo fan,0.0,0.0,1.0,0.0,41.978611,-87.904722,no,chicago,il
+"dallas, tx",incident,2007-02-24,united states,non-fatal,airplane,embraer,emb-145lr,2.0,turbo fan,0.0,0.0,0.0,0.0,32.841389,-96.851111,no,dallas,tx
+"chicago, il",accident,2007-03-15,united states,non-fatal,airplane,boeing,767-300,2.0,turbo fan,0.0,0.0,0.0,0.0,41.973889,-87.902778,no,chicago,il
+"sanford, fl",accident,2007-03-29,united states,non-fatal,airplane,mcdonnell douglas,dc-9-83 (md-83),2.0,turbo fan,0.0,1.0,0.0,1.0,28.768334,-81.2375,no,sanford,fl
+"burbank, ca",accident,2007-04-24,united states,non-fatal,airplane,boeing,757-24apf,2.0,turbo fan,0.0,0.0,1.0,0.0,34.200556,-118.358611,no,burbank,ca
+"la plata, md",accident,2007-04-25,united states,non-fatal,airplane,boeing,737-300,2.0,turbo fan,0.0,0.0,1.0,0.0,38.454722,-77.049722,no,la plata,md
+"atlanta, ga",incident,2007-05-02,united states,non-fatal,airplane,mcdonnell douglas,dc-10-30,3.0,turbo fan,0.0,0.0,0.0,0.0,33.636666,-84.428056,no,atlanta,ga
+"denver, co",accident,2007-06-03,united states,non-fatal,airplane,boeing,757-251,2.0,turbo fan,0.0,0.0,1.0,0.0,39.861389,-104.673056,no,denver,co
+"tehachapi, ca",accident,2007-06-25,united states,non-fatal,airplane,mcdonnell douglas,dc 10-10,3.0,turbo fan,0.0,0.0,0.0,0.0,35.004444,-118.5975,no,tehachapi,ca
+"chicago, il",accident,2007-06-27,united states,non-fatal,airplane,mcdonnell douglas,md 83,2.0,turbo fan,0.0,0.0,0.0,0.0,41.968611,-87.907778,no,chicago,il
+"oceanic, un",accident,2007-06-27,united states,non-fatal,airplane,boeing,747-422,4.0,turbo fan,0.0,0.0,1.0,0.0,11,-157,no,oceanic,un
+"chicago, il",accident,2007-06-27,united states,non-fatal,airplane,boeing,777-222,2.0,turbo fan,0.0,0.0,0.0,0.0,41.968611,-87.907778,no,chicago,il
+"los angeles, ca",incident,2007-06-29,united states,non-fatal,airplane,boeing,747-400,4.0,turbo fan,0.0,0.0,0.0,0.0,33.9425,-118.407222,no,los angeles,ca
+"mcalester, ok",accident,2007-07-08,united states,non-fatal,airplane,boeing,b737-800,2.0,turbo fan,0.0,2.0,1.0,2.0,34.8375,-95.770834,no,mcalester,ok
+"tunica, ms",accident,2007-07-10,united states,non-fatal,airplane,boeing,737-232,2.0,turbo fan,1.0,0.0,0.0,0.0,34.676389,-90.341666,no,tunica,ms
+"atlanta, ga",accident,2007-07-12,united states,non-fatal,airplane,boeing,777-232,2.0,turbo fan,0.0,0.0,1.0,0.0,33.636666,-84.428334,no,atlanta,ga
+"knox, in",accident,2007-08-07,united states,non-fatal,airplane,embraer,emb-145lr,2.0,turbo fan,0.0,0.0,1.0,0.0,41.321945,-86.649166,no,knox,in
+"st. louis, mo",accident,2007-09-28,united states,non-fatal,airplane,mcdonnell douglas,dc-9-82 (md-82),2.0,turbo fan,0.0,0.0,0.0,0.0,38.748611,-90.366945,no,st. louis,mo
+"charlotte (clt), nc",incident,2007-10-28,united states,non-fatal,airplane,boeing,757-225,2.0,turbo fan,0.0,0.0,0.0,0.0,unknown,unknown,no,charlotte (clt),nc
+"greenville, tx",incident,2007-11-17,united states,non-fatal,airplane,boeing,737-300,2.0,turbo fan,0.0,0.0,0.0,0.0,33.191111,-95.978334,no,greenville,tx
+"phoenix, az",incident,2007-11-25,united states,non-fatal,airplane,boeing,737-832,2.0,turbo fan,0.0,0.0,0.0,0.0,33.434444,-112.011389,no,phoenix,az
+"new york, ny",accident,2007-12-14,united states,non-fatal,airplane,embraer,emb-190,2.0,turbo fan,0.0,0.0,0.0,0.0,40.658333,-73.786666,no,new york,ny
+"chicago, il",accident,2007-12-14,united states,non-fatal,airplane,boeing,777-222,2.0,turbo fan,0.0,0.0,1.0,0.0,41.978611,-87.904722,no,chicago,il
+"ontario, ca",accident,2007-12-25,united states,non-fatal,airplane,mcdonnell douglas,dc-9-83,2.0,turbo fan,0.0,0.0,2.0,0.0,34.056111,-117.601111,no,ontario,ca
+"lincoln, ne",incident,2008-01-08,united states,non-fatal,airplane,boeing,737-2h4,2.0,turbo fan,0.0,0.0,0.0,0.0,040515N,0964555W,no,lincoln,ne
+"newark, nj",incident,2008-01-25,united states,non-fatal,airplane,airbus,a320,2.0,turbo fan,0.0,0.0,0.0,0.0,404123N,0741028W,no,newark,nj
+"washington, dc",accident,2008-02-17,united states,non-fatal,airplane,embraer,erj170,2.0,turbo fan,0.0,0.0,0.0,0.0,385130N,0077230W,no,washington,dc
+"austin, tx",incident,2008-02-18,united states,non-fatal,airplane,mcdonnell douglas,md-88,2.0,turbo fan,0.0,0.0,0.0,0.0,301124N,0097407W,no,austin,tx
+"valdosta, ga",accident,2008-02-23,united states,non-fatal,airplane,boeing,737-700,2.0,turbo fan,0.0,1.0,0.0,1.0,295812N,0822624W,no,valdosta,ga
+"las vegas, nv",incident,2008-02-24,united states,non-fatal,airplane,boeing,737-300,2.0,turbo fan,0.0,0.0,6.0,0.0,036448N,0011598W,no,las vegas,nv
+"dallas, tx",incident,2008-03-01,united states,non-fatal,airplane,boeing,737-3h4,2.0,turbo fan,0.0,0.0,0.0,0.0,325043N,0096519W,no,dallas,tx
+"houston, tx",incident,2008-03-27,united states,non-fatal,airplane,boeing,737-524,2.0,turbo fan,0.0,0.0,0.0,0.0,030026N,0951849W,no,houston,tx
+"miami, fl",accident,2008-04-07,united states,non-fatal,airplane,boeing,737-823,2.0,turbo fan,0.0,1.0,1.0,1.0,252222N,0082952W,no,miami,fl
+"miami, fl",incident,2008-05-21,united states,non-fatal,airplane,boeing,md-11f,3.0,turbo fan,0.0,0.0,0.0,0.0,254649N,0801157W,no,miami,fl
+"dallas, tx",accident,2008-05-27,united states,non-fatal,airplane,embraer,140,2.0,turbo fan,0.0,1.0,0.0,1.0,032450N,0097200W,no,dallas,tx
+"phoenix (phx), az",incident,2008-06-27,united states,non-fatal,airplane,boeing,737,2.0,turbo fan,0.0,0.0,0.0,0.0,033264N,0112041W,no,phoenix (phx),az
+"st. louis, mo",incident,2008-07-07,united states,non-fatal,airplane,mcdonnell douglas,md-81,2.0,turbo fan,0.0,0.0,0.0,0.0,384455N,0902212W,no,st. louis,mo
+"las vegas, nv",incident,2008-08-06,united states,non-fatal,airplane,boeing,757,2.0,turbo fan,0.0,0.0,0.0,0.0,036448N,0011598W,no,las vegas,nv
+"st. louis, mo",accident,2008-08-14,united states,non-fatal,airplane,embraer,emb-145lr,2.0,turbo fan,0.0,0.0,0.0,0.0,384419N,0902022W,no,st. louis,mo
+"san francisco, ca",accident,2008-08-16,united states,non-fatal,airplane,boeing,777-300,2.0,turbo fan,0.0,0.0,0.0,0.0,037378N,1222229W,no,san francisco,ca
+"chicago, il",incident,2008-09-22,united states,non-fatal,airplane,boeing,757-223,2.0,turbo fan,0.0,0.0,0.0,0.0,415843N,0875417W,no,chicago,il
+"chicago, il",incident,2008-10-01,united states,non-fatal,airplane,boeing,737,2.0,turbo fan,0.0,0.0,0.0,0.0,415321N,0873713W,no,chicago,il
+"phoenix, az",accident,2008-10-20,united states,non-fatal,airplane,airbus,320,2.0,turbo fan,0.0,0.0,0.0,0.0,033267N,0112036W,no,phoenix,az
+"salt lake city, ut",incident,2008-11-07,united states,non-fatal,airplane,boeing,737-700,2.0,turbo fan,0.0,0.0,0.0,0.0,404718N,1115840W,no,salt lake city,ut
+"bozeman, mt",incident,2008-11-26,united states,non-fatal,airplane,boeing,777,2.0,turbo fan,0.0,0.0,0.0,0.0,454610N,1105549W,no,bozeman,mt
+"madison, wi",accident,2008-12-03,united states,non-fatal,airplane,mcdonnell douglas,dc-9-50,2.0,turbo fan,0.0,0.0,0.0,0.0,043823N,0892015W,no,madison,wi
+"sitka, ak",incident,2008-12-20,united states,non-fatal,airplane,boeing,737-4q8,2.0,turbo fan,0.0,0.0,88.0,0.0,057250N,1352142W,no,sitka,ak
+"rockford, il",accident,2008-12-23,united states,non-fatal,airplane,boeing,747-212b,4.0,turbo fan,0.0,0.0,0.0,0.0,421155N,0008961W,no,rockford,il
+"los angeles intl airport, ca",accident,2008-12-26,united states,non-fatal,airplane,mcdonnell douglas,dc-9-83,2.0,turbo fan,0.0,0.0,0.0,0.0,335659N,1182359W,no,los angeles intl airport,ca
+"kansas city, mo",accident,2008-12-27,united states,non-fatal,airplane,embraer,erj 170-10,2.0,turbo fan,0.0,1.0,0.0,1.0,391615N,0944347W,no,kansas city,mo
+"seattle, wa",accident,2008-12-28,united states,non-fatal,airplane,boeing,757-351,2.0,turbo fan,0.0,0.0,0.0,0.0,472659N,1221842W,no,seattle,wa
+"new york, ny",accident,2008-12-31,united states,non-fatal,airplane,embraer,emb145,2.0,turbo fan,0.0,0.0,0.0,0.0,403823N,0734613W,no,new york,ny
+"atlanta, ga",incident,2009-01-02,united states,non-fatal,airplane,boeing,777,2.0,turbo fan,0.0,0.0,0.0,0.0,033451N,0842326W,no,atlanta,ga
+"weehawken, nj",accident,2009-01-15,united states,non-fatal,airplane,airbus,a320,2.0,turbo fan,0.0,5.0,0.0,5.0,404619N,0072526W,no,weehawken,nj
+"new york, ny",accident,2009-04-20,united states,non-fatal,airplane,boeing,767,2.0,turbo fan,0.0,0.0,0.0,0.0,404457N,0735958W,no,new york,ny
+"denver, co",accident,2009-05-04,united states,non-fatal,airplane,airbus,a320,2.0,turbo fan,0.0,0.0,4.0,0.0,039450N,1045957W,no,denver,co
+"baltimore, md",accident,2009-05-06,united states,non-fatal,airplane,boeing,dc-10,3.0,turbo fan,0.0,1.0,11.0,1.0,391721N,0763711W,no,baltimore,md
+"houston, tx",incident,2009-05-13,united states,non-fatal,airplane,boeing,737,2.0,turbo fan,0.0,0.0,2.0,0.0,293826N,0951626W,no,houston,tx
+"san juan, pr",accident,2009-05-20,united states,non-fatal,airplane,boeing,767 332,2.0,turbo fan,0.0,1.0,4.0,1.0,018289N,0006662W,no,san juan,pr
+"cleveland, oh",incident,2009-06-03,united states,non-fatal,airplane,embraer,emb-145lr,2.0,turbo fan,0.0,0.0,0.0,0.0,412924N,0814011W,no,cleveland,oh
+"fort myers, fl",accident,2009-07-10,united states,non-fatal,airplane,airbus,a320-232,2.0,turbo fan,0.0,2.0,2.0,2.0,263210N,0814519W,no,fort myers,fl
+"charlotte (clt), nc",incident,2009-07-15,united states,non-fatal,airplane,boeing,737-3b7,2.0,turbo fan,0.0,0.0,0.0,0.0,351349N,0805436W,no,charlotte (clt),nc
+"norfolk, va",accident,2009-07-27,united states,non-fatal,airplane,embraer,emb170,2.0,turbo fan,0.0,1.0,1.0,1.0,365340N,0076124W,no,norfolk,va
+"los angeles, ca",incident,2009-09-08,united states,non-fatal,airplane,boeing,737,2.0,turbo fan,0.0,0.0,0.0,0.0,335633N,1182426W,no,los angeles,ca
+"atlanta hartsfield intl. apt. (katl), ga",incident,2009-10-19,united states,non-fatal,airplane,boeing,767,2.0,turbo fan,0.0,0.0,0.0,0.0,unknown,unknown,no,atlanta hartsfield intl. apt. (katl),ga
+"minneapolis, mn",incident,2009-10-21,united states,non-fatal,airplane,airbus,a320,2.0,turbo fan,0.0,0.0,0.0,0.0,445250N,0931315W,no,minneapolis,mn
+"pleasant grove, nc",accident,2009-10-26,united states,non-fatal,airplane,boeing,717-200,2.0,turbo fan,0.0,1.0,1.0,1.0,365340N,0076124W,no,pleasant grove,nc
+"kansas city, mo",incident,2009-11-15,united states,non-fatal,airplane,airbus,a319-111,2.0,turbo fan,0.0,0.0,0.0,0.0,391752N,0944250W,no,kansas city,mo
+"new market, wv",accident,2009-11-19,united states,non-fatal,airplane,boeing,777-200,2.0,turbo fan,0.0,1.0,1.0,1.0,383920N,0784229W,no,new market,wv
+"santa clarita, ca",accident,2010-02-13,united states,non-fatal,airplane,boeing,737-7h4,2.0,turbo fan,0.0,1.0,1.0,1.0,342750N,1183049W,no,santa clarita,ca
+"anchorage, ak",accident,2010-02-19,united states,non-fatal,airplane,boeing,747,4.0,turbo fan,0.0,1.0,25.0,1.0,611028N,1495947W,no,anchorage,ak
+"chicago, il",incident,2010-03-13,united states,non-fatal,airplane,embraer,emb-145lr,2.0,turbo fan,0.0,0.0,0.0,0.0,414950N,0874337W,no,chicago,il
+"san francisco, ca",incident,2010-03-27,united states,non-fatal,airplane,boeing,777-222,2.0,turbo fan,0.0,0.0,0.0,0.0,374650N,1222512W,no,san francisco,ca
+"runnells, ia",accident,2010-04-03,united states,non-fatal,airplane,embraer,erj 170-100 se,2.0,turbo fan,0.0,1.0,0.0,1.0,413132N,0931848W,no,runnells,ia
+"newark, nj",incident,2010-04-05,united states,non-fatal,airplane,airbus,a320,2.0,turbo fan,0.0,0.0,0.0,0.0,404422N,0074109W,no,newark,nj
+"los angeles, ca",accident,2010-04-10,united states,non-fatal,airplane,boeing,737-3h4,2.0,turbo fan,0.0,0.0,0.0,0.0,335648N,0118241W,no,los angeles,ca
+"chicago, il",accident,2010-04-17,united states,non-fatal,airplane,mcdonnell douglas,dc-9-82(md-82),2.0,turbo fan,0.0,1.0,0.0,1.0,042150N,0087542W,no,chicago,il
+"houston, tx",incident,2010-04-28,united states,non-fatal,airplane,boeing,737-7h4,2.0,turbo fan,0.0,0.0,0.0,0.0,293858N,0951649W,no,houston,tx
+"fort dodge, ia",accident,2010-04-30,united states,non-fatal,airplane,boeing,767,2.0,turbo fan,0.0,1.0,5.0,1.0,042303N,0941014W,no,fort dodge,ia
+"chantilly, va",incident,2010-05-17,united states,non-fatal,airplane,boeing,757,2.0,turbo fan,0.0,0.0,0.0,0.0,038540N,0772658W,no,chantilly,va
+"miami, fl",accident,2010-05-17,united states,non-fatal,airplane,boeing,747,4.0,turbo fan,0.0,0.0,0.0,0.0,254743N,0801724W,no,miami,fl
+"new york, ny",accident,2010-06-19,united states,non-fatal,airplane,boeing,737,2.0,turbo fan,0.0,0.0,0.0,0.0,040390N,0073470W,no,new york,ny
+"pioneer, la",accident,2010-06-28,united states,non-fatal,airplane,embraer,emb-145lr,2.0,turbo fan,0.0,2.0,3.0,2.0,032231N,0944225W,no,pioneer,la
+"chicago, il",incident,2010-08-04,united states,non-fatal,airplane,boeing,767-322,2.0,turbo fan,0.0,0.0,6.0,0.0,041357N,0873233W,no,chicago,il
+"salt lake city, ut",accident,2010-08-10,united states,non-fatal,airplane,embraer,emb-145xr,2.0,turbo fan,0.0,0.0,0.0,0.0,404718N,1115840W,no,salt lake city,ut
+"sacramento, ca",incident,2010-08-26,united states,non-fatal,airplane,airbus,a320-232,2.0,turbo fan,0.0,0.0,7.0,0.0,384144N,1213527W,no,sacramento,ca
+"los angeles, ca",incident,2010-09-04,united states,non-fatal,airplane,boeing,737-7h4,2.0,turbo fan,0.0,0.0,0.0,0.0,335810N,1181423W,no,los angeles,ca
+"brenham, tx",incident,2010-09-10,united states,non-fatal,airplane,embraer,500,2.0,turbo fan,0.0,0.0,0.0,0.0,030136N,0962216W,no,brenham,tx
+"miami, fl",accident,2010-10-27,united states,non-fatal,airplane,boeing,757-223,2.0,turbo fan,0.0,0.0,0.0,0.0,254646N,0801156W,no,miami,fl
+"fort lauderdale, fl",accident,2010-10-29,united states,non-fatal,airplane,boeing,737,2.0,turbo fan,0.0,0.0,0.0,0.0,026422N,0080910W,no,fort lauderdale,fl
+"minneapolis, mn",accident,2010-11-15,united states,non-fatal,airplane,embraer,erj 170-200 lr,2.0,turbo fan,0.0,0.0,0.0,0.0,445539N,0931813W,no,minneapolis,mn
+"madison, wi",accident,2010-11-23,united states,non-fatal,airplane,embraer,emb-145lr,2.0,turbo fan,0.0,1.0,0.0,1.0,043824N,0892015W,no,madison,wi
+"milwaukee, wi",accident,2010-11-30,united states,non-fatal,airplane,embraer,emb-135lr,2.0,turbo fan,0.0,1.0,9.0,1.0,041551N,0881845W,no,milwaukee,wi
+"philadelphia, pa",accident,2010-12-18,united states,non-fatal,airplane,boeing,737-7h4,2.0,turbo fan,0.0,0.0,0.0,0.0,395220N,0751427W,no,philadelphia,pa
+"san francisco, ca",incident,2010-12-25,united states,non-fatal,airplane,boeing,737,2.0,turbo fan,0.0,0.0,0.0,0.0,374647N,0122259W,no,san francisco,ca
+"jackson hole, wy",incident,2010-12-29,united states,non-fatal,airplane,boeing,757-223,2.0,turbo fan,0.0,0.0,0.0,0.0,432812N,1104536W,no,jackson hole,wy
+"los angeles, ca",accident,2011-01-03,united states,non-fatal,airplane,boeing,737-823,2.0,turbo fan,0.0,0.0,0.0,0.0,335633N,1182429W,no,los angeles,ca
+"dayton, oh",incident,2011-02-01,united states,non-fatal,airplane,embraer,emb-145lr,2.0,turbo fan,0.0,0.0,0.0,0.0,394536N,0841239W,no,dayton,oh
+"minneapolis, mn",incident,2011-02-09,united states,non-fatal,airplane,boeing,757-2q8,2.0,turbo fan,0.0,0.0,0.0,0.0,443112N,0093712W,no,minneapolis,mn
+"north fayston, vt",accident,2011-02-19,united states,non-fatal,airplane,airbus,a320-232,2.0,turbo fan,0.0,1.0,1.0,1.0,044242N,0724238W,no,north fayston,vt
+"southlake, tx",incident,2011-02-21,united states,non-fatal,airplane,boeing,737-823,2.0,turbo fan,0.0,0.0,0.0,0.0,325349N,0097217W,no,southlake,tx
+"new york, ny",accident,2011-02-25,united states,non-fatal,airplane,embraer,erj 190-100 igw,2.0,turbo fan,0.0,1.0,0.0,1.0,404638N,0735221W,no,new york,ny
+"naches, wa",accident,2011-02-28,united states,non-fatal,airplane,boeing,757-232,2.0,turbo fan,0.0,1.0,1.0,1.0,464841N,0120577W,no,naches,wa
+"atlanta, ga",incident,2011-03-11,united states,non-fatal,airplane,boeing,757-232,2.0,turbo fan,0.0,0.0,0.0,0.0,unknown,unknown,no,atlanta,ga
+"akron, oh",incident,2011-03-18,united states,non-fatal,airplane,embraer,emb-145xr,2.0,turbo fan,0.0,0.0,0.0,0.0,405454N,0812637W,no,akron,oh
+"albuquerque, nm",accident,2011-03-23,united states,non-fatal,airplane,airbus,f4-622r,2.0,turbo fan,0.0,0.0,0.0,0.0,003520N,0106360W,no,albuquerque,nm
+"kansas city, mo",accident,2011-03-26,united states,non-fatal,airplane,embraer,emb-145lr,2.0,turbo fan,0.0,1.0,0.0,1.0,375445N,0933525W,no,kansas city,mo
+"orlando, fl",incident,2011-03-27,united states,non-fatal,airplane,boeing,737-7h4,2.0,turbo fan,0.0,0.0,0.0,0.0,282511N,0081181W,no,orlando,fl
+"yuma, az",accident,2011-04-01,united states,non-fatal,airplane,boeing,737,2.0,turbo fan,0.0,0.0,2.0,0.0,323924N,1143621W,no,yuma,az
+"new orleans, la",incident,2011-04-04,united states,non-fatal,airplane,airbus,a320,2.0,turbo fan,0.0,0.0,0.0,0.0,295923N,0901458W,no,new orleans,la
+"pacific ocean,",accident,2011-04-11,united states,non-fatal,airplane,boeing,777-223,2.0,turbo fan,0.0,2.0,2.0,2.0,355336N,1435218E,no,"pacific ocean,",unknown
+"jamaica, ny",accident,2011-04-12,united states,non-fatal,airplane,airbus,a380,4.0,turbo fan,0.0,0.0,0.0,0.0,403821N,0734722W,no,jamaica,ny
+"cheltenham, md",accident,2011-04-17,united states,non-fatal,airplane,boeing,757-2b7,2.0,turbo fan,0.0,1.0,0.0,1.0,384220N,0764440W,no,cheltenham,md
+"new york, ny",accident,2011-04-25,united states,non-fatal,airplane,airbus,a330-323,2.0,turbo fan,0.0,1.0,0.0,1.0,403823N,0734644W,no,new york,ny
+"chicago, il",incident,2011-04-26,united states,non-fatal,airplane,boeing,737-7q8,2.0,turbo fan,0.0,0.0,0.0,0.0,415326N,0873712W,no,chicago,il
+"chillicothe, mo",accident,2011-05-09,united states,non-fatal,airplane,airbus,a319,2.0,turbo fan,0.0,1.0,0.0,1.0,395236N,0933826W,no,chillicothe,mo
+"atlanta, ga",accident,2011-05-12,united states,non-fatal,airplane,boeing,737-732,2.0,turbo fan,0.0,0.0,0.0,0.0,333812N,0842541W,no,atlanta,ga
+"point mugu, ca",accident,2011-05-19,united states,non-fatal,airplane,boeing,707-321b,4.0,turbo fan,0.0,0.0,3.0,0.0,034622N,0119751W,no,point mugu,ca
+"boone, nc",accident,2011-05-23,united states,non-fatal,airplane,boeing,757,2.0,turbo fan,0.0,1.0,1.0,1.0,362153N,0813447W,no,boone,nc
+"los angeles, ca",accident,2011-05-31,united states,non-fatal,airplane,boeing,757-222,2.0,turbo fan,0.0,0.0,0.0,0.0,335620N,1182417W,no,los angeles,ca
+"atlanta, ga",incident,2011-06-21,united states,non-fatal,airplane,boeing,757-232,2.0,turbo fan,0.0,0.0,3.0,0.0,333821N,0842541W,no,atlanta,ga
+"miami, fl",accident,2011-06-22,united states,non-fatal,airplane,mcdonnell douglas,md88,2.0,turbo fan,0.0,1.0,0.0,1.0,254743N,0801714W,no,miami,fl
+"apache junction, az",incident,2011-06-27,united states,non-fatal,airplane,mcdonnell douglas,dc-9-83(md-83),2.0,turbo fan,0.0,0.0,0.0,0.0,unknown,unknown,no,apache junction,az
+"moline, il",incident,2011-08-29,united states,non-fatal,airplane,embraer,emb145,2.0,turbo fan,0.0,0.0,0.0,0.0,412655N,0903027W,no,moline,il
+"cape coral, fl",accident,2011-09-06,united states,non-fatal,airplane,boeing,737 7h4,2.0,turbo fan,0.0,1.0,0.0,1.0,262624N,0008230W,no,cape coral,fl
+"denver, co",incident,2011-09-26,united states,non-fatal,airplane,boeing,757-222,2.0,turbo fan,0.0,0.0,0.0,0.0,394459N,0010500W,no,denver,co
+"miami, fl",accident,2011-09-29,united states,non-fatal,airplane,boeing,737-823,2.0,turbo fan,0.0,1.0,0.0,1.0,025460N,0801730W,no,miami,fl
+"chicago, il",incident,2011-12-01,united states,non-fatal,airplane,boeing,737-7h4,2.0,turbo fan,0.0,0.0,0.0,0.0,414645N,0874614W,no,chicago,il
+"oakland, ca",accident,2011-12-02,united states,non-fatal,airplane,boeing,737-7h4,2.0,turbo fan,0.0,1.0,2.0,1.0,374345N,1221427W,no,oakland,ca
+"atlanta, ga",accident,2011-12-09,united states,non-fatal,airplane,boeing,737-732,2.0,turbo fan,0.0,0.0,0.0,0.0,333755N,0842559W,no,atlanta,ga
+"denver, co",incident,2011-12-22,united states,non-fatal,airplane,boeing,737-7h4,2.0,turbo fan,0.0,0.0,0.0,0.0,039451N,1045959W,no,denver,co
+"farmersville, tx",incident,2012-01-25,united states,non-fatal,airplane,embraer,emb-145lr,2.0,turbo fan,0.0,0.0,0.0,0.0,033934N,0096212W,no,farmersville,tx
+"jamaica, ny",incident,2012-02-08,united states,non-fatal,airplane,boeing,767,2.0,turbo fan,0.0,0.0,0.0,0.0,404233N,0734947W,no,jamaica,ny
+"portland, or",incident,2012-02-13,united states,non-fatal,airplane,mcdonnell douglas,md-10-30f,3.0,turbo fan,0.0,0.0,0.0,0.0,453521N,1223620W,no,portland,or
+"detroit, mi",accident,2012-02-19,united states,non-fatal,airplane,boeing,737-832,2.0,turbo fan,0.0,1.0,3.0,1.0,042213N,0083335W,no,detroit,mi
+"pawnee, ne",accident,2012-02-23,united states,non-fatal,airplane,boeing,737-7h4,2.0,turbo fan,0.0,1.0,1.0,1.0,040108N,0009697W,no,pawnee,ne
+"millville, nj",accident,2012-02-24,united states,non-fatal,airplane,airbus,a321,2.0,turbo fan,0.0,1.0,0.0,1.0,039180N,0075318W,no,millville,nj
+"laverne, ok",accident,2012-03-20,united states,non-fatal,airplane,boeing,737-7h4,2.0,turbo fan,0.0,1.0,0.0,1.0,036422N,0995321W,no,laverne,ok
+"fort lauderdale, fl",accident,2012-05-10,united states,non-fatal,airplane,airbus,a319-112,2.0,turbo fan,0.0,1.0,0.0,1.0,042482N,0735510W,no,fort lauderdale,fl
+"chicago, il",accident,2012-05-30,united states,non-fatal,airplane,boeing,747,4.0,turbo fan,0.0,0.0,0.0,0.0,415824N,0875412W,no,chicago,il
+"philadelphia, pa",accident,2012-06-07,united states,non-fatal,airplane,boeing,757 2b7,2.0,turbo fan,0.0,1.0,1.0,1.0,395228N,0751431W,no,philadelphia,pa
+"winnie, tx",accident,2012-06-13,united states,non-fatal,airplane,boeing,737-724,2.0,turbo fan,0.0,2.0,0.0,2.0,294713N,0094283W,no,winnie,tx
+"las vegas, nv",incident,2012-06-17,united states,non-fatal,airplane,airbus,a320,2.0,turbo fan,0.0,0.0,0.0,0.0,404535N,0734239W,no,las vegas,nv
+"el paso, tx",incident,2012-07-27,united states,non-fatal,airplane,boeing,737-3h4,2.0,turbo fan,0.0,0.0,0.0,0.0,314826N,1062235W,no,el paso,tx
+"denver, co",incident,2012-07-31,united states,non-fatal,airplane,boeing,737-924er,2.0,turbo fan,0.0,0.0,0.0,0.0,395142N,1044023W,no,denver,co
+"dulles, va",accident,2012-08-10,united states,non-fatal,airplane,airbus,a330,2.0,turbo fan,0.0,0.0,0.0,0.0,385651N,0077270W,no,dulles,va
+"milwaukee, wi",accident,2012-10-05,united states,non-fatal,airplane,boeing,717-200,2.0,turbo fan,0.0,0.0,0.0,0.0,425629N,0875329W,no,milwaukee,wi
+"las vegas, nv",accident,2012-10-17,united states,non-fatal,airplane,boeing,737-3h4,2.0,turbo fan,0.0,1.0,0.0,1.0,036448N,0011598W,no,las vegas,nv
+"memphis, tn",accident,2012-12-26,united states,non-fatal,airplane,mcdonnell douglas,md-11f,3.0,turbo fan,0.0,0.0,0.0,0.0,035233N,0895836W,no,memphis,tn
+"chicago, il",accident,2012-12-29,united states,non-fatal,airplane,embraer,emb-145lr,2.0,turbo fan,0.0,1.0,0.0,1.0,044404N,0085330W,no,chicago,il
+"miami, fl",accident,2013-01-17,united states,non-fatal,airplane,airbus,a340 - 300,4.0,turbo fan,0.0,0.0,0.0,0.0,254725N,0801630W,no,miami,fl
+"cincinnati, oh",accident,2013-02-19,united states,non-fatal,airplane,embraer,emb-145lr,2.0,turbo fan,0.0,1.0,0.0,1.0,039255N,0084404W,no,cincinnati,oh
+"tunica, ms",accident,2013-02-24,united states,non-fatal,airplane,embraer,erj 190-100 igw,2.0,turbo fan,0.0,1.0,0.0,1.0,034416N,0902052W,no,tunica,ms
+"dallas, tx",incident,2013-02-25,united states,non-fatal,airplane,boeing,747,4.0,turbo fan,0.0,0.0,0.0,0.0,032547N,0097231W,no,dallas,tx
+"atlanta, ga",accident,2013-03-08,united states,non-fatal,airplane,boeing,757-232,2.0,turbo fan,0.0,0.0,0.0,0.0,333812N,0842540W,no,atlanta,ga
+"houston, tx",incident,2013-03-29,united states,non-fatal,airplane,embraer,erj-145,2.0,turbo fan,0.0,0.0,0.0,0.0,029594N,0952029W,no,houston,tx
+"las vegas, nv",accident,2013-04-05,united states,non-fatal,airplane,airbus,321,2.0,turbo fan,0.0,0.0,0.0,0.0,036480N,0115180W,no,las vegas,nv
+"newark, nj",accident,2013-05-01,united states,non-fatal,airplane,airbus,a330,2.0,turbo fan,0.0,0.0,0.0,0.0,404159N,0074957W,no,newark,nj
+"dallas, tx",accident,2013-05-09,united states,non-fatal,airplane,airbus,320,2.0,turbo fan,0.0,1.0,0.0,1.0,325348N,0097213W,no,dallas,tx
+"phoenix, az",incident,2013-05-10,united states,non-fatal,airplane,boeing,737-7h4,2.0,turbo fan,0.0,0.0,0.0,0.0,033262N,0112025W,no,phoenix,az
+"atlanta, ga",incident,2013-05-19,united states,non-fatal,airplane,boeing,747,4.0,turbo fan,0.0,0.0,0.0,0.0,333827N,0842540W,no,atlanta,ga
+"san francisco, ca",accident,2013-07-06,united states,fatal,airplane,boeing,777-200er,2.0,turbo fan,3.0,50.0,137.0,50.0,373648N,1222150W,no,san francisco,ca
+"flushing, ny",accident,2013-07-22,united states,non-fatal,airplane,boeing,737 7h4,2.0,turbo fan,0.0,0.0,8.0,0.0,404638N,0735221W,no,flushing,ny
+"birmingham, al",accident,2013-08-14,united states,fatal,airplane,airbus,a300 - f4 622r,2.0,turbo fan,2.0,0.0,0.0,0.0,333350N,0086488W,no,birmingham,al
+"greenville, tx",incident,2013-10-15,united states,non-fatal,airplane,airbus,a319 132,2.0,turbo fan,0.0,0.0,0.0,0.0,033124N,0096124W,no,greenville,tx
+"houston, tx",accident,2013-10-18,united states,non-fatal,airplane,boeing,767 322,2.0,turbo fan,0.0,1.0,0.0,1.0,294546N,0952259W,no,houston,tx
+"st. louis, mo",incident,2013-12-23,united states,non-fatal,airplane,boeing,737 3h4,2.0,turbo fan,0.0,0.0,0.0,0.0,038451N,0902232W,no,st. louis,mo
+"las vegas, nv",accident,2014-01-04,united states,non-fatal,airplane,boeing,737,2.0,turbo fan,0.0,0.0,0.0,0.0,036448N,0011598W,no,las vegas,nv
+"nashville, tn",accident,2014-01-09,united states,non-fatal,airplane,boeing,737 7h4,2.0,turbo fan,0.0,1.0,0.0,1.0,036736N,0864055W,no,nashville,tn
+"branson, mo",incident,2014-01-13,united states,non-fatal,airplane,boeing,737 7h4,2.0,turbo fan,0.0,0.0,0.0,0.0,363733N,0931344W,no,branson,mo
+"kaycee, wy",accident,2014-02-17,united states,non-fatal,airplane,boeing,737,2.0,turbo fan,0.0,2.0,10.0,2.0,434320N,1065751W,no,kaycee,wy
+"san diego, ca",accident,2014-03-05,united states,non-fatal,airplane,boeing,737 - 932er,2.0,turbo fan,0.0,1.0,0.0,1.0,032446N,1171123W,no,san diego,ca
+"philadelphia, pa",accident,2014-03-13,united states,non-fatal,airplane,airbus,a320 - 214,2.0,turbo fan,0.0,0.0,0.0,0.0,395138N,0751626W,no,philadelphia,pa
+"seattle, po",accident,2014-03-17,united states,non-fatal,airplane,airbus,a330 323,2.0,turbo fan,0.0,1.0,0.0,1.0,037383N,0130410W,no,seattle,po
+"boston, ma",accident,2014-05-12,united states,non-fatal,airplane,mcdonnell douglas,md90 - 30,2.0,turbo fan,0.0,0.0,0.0,0.0,422148N,0071123W,no,boston,ma
+"los angeles, ca",incident,2014-07-11,united states,non-fatal,airplane,boeing,767 332,2.0,turbo fan,0.0,0.0,0.0,0.0,335630N,1182430W,no,los angeles,ca
+"san diego, ca",accident,2014-07-30,united states,non-fatal,airplane,boeing,757,2.0,turbo fan,0.0,0.0,0.0,0.0,324359N,1171117W,no,san diego,ca
+"salt lake city, ut",accident,2014-08-14,united states,non-fatal,airplane,boeing,737 7h4,2.0,turbo fan,0.0,0.0,0.0,0.0,404711N,1115823W,no,salt lake city,ut
+"chicago, il",accident,2014-09-13,united states,non-fatal,airplane,embraer,emb 145xr,2.0,turbo fan,0.0,0.0,0.0,0.0,415824N,0875357W,no,chicago,il
+"miami, fl",accident,2014-09-16,united states,non-fatal,airplane,boeing,757 223,2.0,turbo fan,0.0,0.0,0.0,0.0,254557N,0080138W,no,miami,fl
+"long beach, ca",incident,2014-09-18,united states,non-fatal,airplane,airbus,a320 232,2.0,turbo fan,0.0,0.0,0.0,0.0,033496N,0118841W,no,long beach,ca
+"conroe, tx",accident,2014-09-19,united states,non-fatal,airplane,embraer,emb 505,2.0,turbo fan,0.0,0.0,0.0,0.0,302136N,0952452W,no,conroe,tx
+"atlanta, ga",incident,2014-09-21,united states,non-fatal,airplane,boeing,747,4.0,turbo fan,0.0,0.0,0.0,0.0,343813N,0842541W,no,atlanta,ga
+"jamaica, ny",accident,2014-10-05,united states,non-fatal,airplane,embraer,emb 145lr,2.0,turbo fan,0.0,0.0,0.0,0.0,403824N,0734643W,no,jamaica,ny
+"lanai, hi",accident,2014-10-17,united states,non-fatal,airplane,boeing,737 330,2.0,turbo fan,0.0,0.0,0.0,0.0,204648N,0156570W,no,lanai,hi
+"dallas, tx",accident,2014-11-21,united states,non-fatal,airplane,boeing,737 7h4,2.0,turbo fan,0.0,0.0,0.0,0.0,325030N,0096510W,no,dallas,tx
+"palm springs, ca",incident,2014-11-23,united states,non-fatal,airplane,embraer,emb-505,2.0,turbo fan,0.0,0.0,0.0,0.0,033500N,0116300W,no,palm springs,ca
+"valdosta, ga",accident,2014-11-24,united states,non-fatal,airplane,boeing,737 824,2.0,turbo fan,0.0,1.0,12.0,1.0,304650N,0831647W,no,valdosta,ga
+"san jose, ca",accident,2014-12-11,united states,non-fatal,airplane,boeing,737 7h4,2.0,turbo fan,0.0,1.0,0.0,1.0,372146N,1215545W,no,san jose,ca
+"houston, tx",accident,2015-02-10,united states,non-fatal,airplane,embraer,erj 190 100 igw,2.0,turbo fan,0.0,0.0,1.0,0.0,029594N,0952029W,no,houston,tx
+"chicago, il",incident,2015-02-18,united states,non-fatal,airplane,embraer,emb 145lr,2.0,turbo fan,0.0,0.0,0.0,0.0,415818N,0087547W,no,chicago,il
+"st. louis, mo",accident,2015-02-24,united states,non-fatal,airplane,mcdonnell douglas,md 11f,3.0,turbo fan,0.0,1.0,0.0,1.0,003800N,0009000W,no,st. louis,mo
+"miami, fl",incident,2015-04-12,united states,non-fatal,airplane,boeing,767 34af,2.0,turbo fan,0.0,0.0,0.0,0.0,254743N,0801724W,no,miami,fl
+"new orleans, la",incident,2015-05-05,united states,non-fatal,airplane,airbus,a319 112,2.0,turbo fan,0.0,0.0,0.0,0.0,295936N,0901533W,no,new orleans,la
+"windsor locks, ct",accident,2015-05-27,united states,non-fatal,airplane,boeing,777 - 236,2.0,turbo fan,0.0,1.0,1.0,1.0,415554N,0724359W,no,windsor locks,ct
+"st petersburg, fl",accident,2015-06-08,united states,non-fatal,airplane,mcdonnell douglas,dc 9 83(md-83),2.0,turbo fan,0.0,1.0,7.0,1.0,275436N,0824115W,no,st petersburg,fl
+"salt lake city, ut",accident,2015-06-30,united states,non-fatal,airplane,boeing,737 832,2.0,turbo fan,0.0,1.0,0.0,1.0,404459N,0111544W,no,salt lake city,ut
+"denver, co",incident,2015-08-05,united states,non-fatal,airplane,boeing,737,2.0,turbo fan,0.0,0.0,0.0,0.0,395142N,1044023W,no,denver,co
+"south lake tahoe, ca",accident,2015-08-07,united states,non-fatal,airplane,embraer,e175,2.0,turbo fan,0.0,1.0,0.0,1.0,385336N,0120015W,no,south lake tahoe,ca
+"charlotte, nc",accident,2015-08-15,united states,non-fatal,airplane,airbus,a321,2.0,turbo fan,0.0,0.0,0.0,0.0,351249N,0805657W,no,charlotte,nc
+"oakland, ca",accident,2015-08-23,united states,non-fatal,airplane,boeing,737 7h4,2.0,turbo fan,0.0,0.0,0.0,0.0,374318N,1221318W,no,oakland,ca
+"pound ridge, ny",accident,2015-10-09,united states,non-fatal,airplane,boeing,737 3h4,2.0,turbo fan,0.0,1.0,0.0,1.0,411421N,0733447W,no,pound ridge,ny
+"dallas, tx",accident,2015-10-21,united states,non-fatal,airplane,boeing,757 223,2.0,turbo fan,0.0,1.0,0.0,1.0,325350N,0097216W,no,dallas,tx
+"plevna, ks",accident,2015-10-24,united states,non-fatal,airplane,boeing,737-924er,2.0,turbo fan,0.0,1.0,1.0,1.0,038031N,0098238W,no,plevna,ks
+"beaumont, tx",accident,2015-11-07,united states,non-fatal,airplane,boeing,787,2.0,turbo fan,0.0,1.0,0.0,1.0,294537N,0952211W,no,beaumont,tx
+"st louis, mo",accident,2015-11-29,united states,non-fatal,airplane,boeing,737 7h4,2.0,turbo fan,0.0,1.0,0.0,1.0,383747N,0901426W,no,st louis,mo
+"nashville, tn",accident,2015-12-15,united states,non-fatal,airplane,boeing,737 3h4,2.0,turbo fan,0.0,0.0,0.0,0.0,003660N,0086360W,no,nashville,tn
+"seattle, wa",incident,2015-12-19,united states,non-fatal,airplane,boeing,737,2.0,turbo fan,0.0,0.0,0.0,0.0,472749N,1221848W,no,seattle,wa
+"charlotte, nc",accident,2015-12-23,united states,non-fatal,airplane,boeing,737 7h4,2.0,turbo fan,0.0,1.0,0.0,1.0,035179N,0804917W,no,charlotte,nc
+"san diego, ca",accident,2015-12-26,united states,non-fatal,airplane,boeing,737 76n,2.0,turbo fan,0.0,1.0,0.0,1.0,032526N,0116330W,no,san diego,ca
+"raleigh, nc",accident,2016-01-03,united states,non-fatal,airplane,embraer,erj 170 100 se,2.0,turbo fan,0.0,1.0,0.0,1.0,355239N,0784715W,no,raleigh,nc
+"titusville, fl",accident,2016-01-28,united states,non-fatal,airplane,boeing,737 7h4,2.0,turbo fan,0.0,1.0,0.0,1.0,028300N,0079300W,no,titusville,fl
+"fort lauderdale, fl",incident,2016-01-29,united states,non-fatal,airplane,airbus,a321 231,2.0,turbo fan,0.0,0.0,0.0,0.0,026418N,0080859W,no,fort lauderdale,fl
+"detroit, mi",accident,2016-02-17,united states,non-fatal,airplane,boeing,737,2.0,turbo fan,0.0,0.0,0.0,0.0,421227N,0083217W,no,detroit,mi
+"albuquerque, nm",accident,2016-03-05,united states,non-fatal,airplane,boeing,767 34af,2.0,turbo fan,0.0,0.0,0.0,0.0,035112N,0106300W,no,albuquerque,nm
+"port arthur, tx",accident,2016-03-15,united states,non-fatal,airplane,boeing,737 724,2.0,turbo fan,0.0,1.0,0.0,1.0,294112N,0094217W,no,port arthur,tx
+"dallas, tx",incident,2016-04-07,united states,non-fatal,airplane,boeing,737 823,2.0,turbo fan,0.0,0.0,0.0,0.0,325350N,0097216W,no,dallas,tx
+"san diego, ca",accident,2016-04-14,united states,non-fatal,airplane,boeing,737 76q,2.0,turbo fan,0.0,0.0,0.0,0.0,032441N,1171123W,no,san diego,ca
+"las vegas, nv",accident,2016-06-05,united states,non-fatal,airplane,boeing,737-932er,2.0,turbo fan,0.0,1.0,0.0,1.0,036448N,0011598W,no,las vegas,nv
+"jamaica, ny",accident,2016-06-12,united states,non-fatal,airplane,airbus,a321 231,2.0,turbo fan,0.0,1.0,0.0,1.0,403839N,0734714W,no,jamaica,ny
+"sugar land, tx",accident,2016-07-26,united states,non-fatal,airplane,embraer,emb-505,2.0,turbo fan,0.0,0.0,2.0,0.0,029381N,0953928W,no,sugar land,tx
+"cleveland, oh",accident,2016-07-26,united states,non-fatal,airplane,embraer,erj 170 100 se,2.0,turbo fan,0.0,1.0,0.0,1.0,412434N,0815117W,no,cleveland,oh
+"baltimore, md",accident,2016-08-05,united states,non-fatal,airplane,boeing,737 3h4,2.0,turbo fan,0.0,0.0,0.0,0.0,003900N,0007600W,no,baltimore,md
+"new york, ny",accident,2016-08-10,united states,non-fatal,airplane,boeing,737 832,2.0,turbo fan,0.0,0.0,0.0,0.0,403824N,0734648W,no,new york,ny
+"wood, sd",incident,2016-08-12,united states,non-fatal,airplane,airbus,a320 232,2.0,turbo fan,0.0,0.0,27.0,0.0,432955N,1002848W,no,wood,sd
+"waco, tx",accident,2016-08-17,united states,non-fatal,airplane,boeing,737 924,2.0,turbo fan,0.0,1.0,0.0,1.0,031335N,0097921W,no,waco,tx
+"pensacola, fl",accident,2016-08-27,united states,non-fatal,airplane,boeing,737-700,2.0,turbo fan,0.0,0.0,0.0,0.0,302824N,0871112W,no,pensacola,fl
+"miami, fl",incident,2016-09-19,united states,non-fatal,airplane,airbus,a320,2.0,turbo fan,0.0,0.0,0.0,0.0,254745N,0801713W,no,miami,fl
+"seattle, wa",incident,2016-10-26,united states,non-fatal,airplane,airbus,a330 223,2.0,turbo fan,0.0,0.0,0.0,0.0,472650N,1221851W,no,seattle,wa
+"new york, ny",incident,2016-10-27,united states,non-fatal,airplane,boeing,737 7l9,2.0,turbo fan,0.0,0.0,0.0,0.0,040469N,0073536W,no,new york,ny
+"chicago, il",accident,2016-10-28,united states,non-fatal,airplane,boeing,767,2.0,turbo fan,0.0,1.0,20.0,1.0,041588N,0087554W,no,chicago,il
+"fort lauderdale, fl",accident,2016-10-28,united states,non-fatal,airplane,mcdonnell douglas,md 10-10f,3.0,turbo fan,0.0,0.0,0.0,0.0,026439N,0080840W,no,fort lauderdale,fl
+"hopewell, va",accident,2016-11-21,united states,non-fatal,airplane,boeing,717 200,2.0,turbo fan,0.0,1.0,0.0,1.0,371944N,0077657W,no,hopewell,va
+"san antonio, tx",incident,2016-12-04,united states,non-fatal,airplane,embraer,erj170 200lr,2.0,turbo fan,0.0,0.0,1.0,0.0,293153N,0098286W,no,san antonio,tx
+"denver, co",accident,2016-12-14,united states,non-fatal,airplane,boeing,737 824,2.0,turbo fan,0.0,1.0,0.0,1.0,395136N,1044012W,no,denver,co
+"phoenix, az",accident,2017-02-12,united states,non-fatal,airplane,boeing,737 76n,2.0,turbo fan,0.0,0.0,0.0,0.0,033263N,0112042W,no,phoenix,az
+"los angeles, ca",accident,2017-03-06,united states,non-fatal,airplane,airbus,a319 114,2.0,turbo fan,0.0,1.0,0.0,1.0,335633N,1182429W,no,los angeles,ca
+"dallas-fort worth (dfw), tx",accident,2017-03-10,united states,non-fatal,airplane,mcdonnell douglas,dc 9 83(md-83),2.0,turbo fan,0.0,1.0,0.0,1.0,032540N,0097226W,no,dallas-fort worth (dfw),tx
+"boston, ma",accident,2017-05-02,united states,non-fatal,airplane,airbus,a320 232,2.0,turbo fan,0.0,1.0,0.0,1.0,421236N,0007100W,no,boston,ma
+"raleigh, nc",accident,2017-05-21,united states,non-fatal,airplane,boeing,757,2.0,turbo fan,0.0,0.0,0.0,0.0,355239N,0784754W,no,raleigh,nc
+"south toledo bend, tx",accident,2017-05-22,united states,non-fatal,airplane,airbus,a319 132,2.0,turbo fan,0.0,1.0,2.0,1.0,305927N,0933938W,no,south toledo bend,tx
+"washington, dc",incident,2017-06-03,united states,non-fatal,airplane,boeing,737 7h4,2.0,turbo fan,0.0,0.0,0.0,0.0,385655N,0077271W,no,washington,dc
+"atlanta, ga",accident,2017-06-23,united states,non-fatal,airplane,airbus,a321,2.0,turbo fan,0.0,0.0,0.0,0.0,333858N,0842455W,no,atlanta,ga
+"chicago, il",accident,2017-07-01,united states,non-fatal,airplane,airbus,a321 231,2.0,turbo fan,0.0,0.0,0.0,0.0,415838N,0875354W,no,chicago,il
+"san francisco, ca",incident,2017-07-08,united states,non-fatal,airplane,airbus,a320-211,2.0,turbo fan,0.0,0.0,0.0,0.0,373655N,1222129W,no,san francisco,ca
+"east hampton, ny",accident,2017-08-05,united states,non-fatal,airplane,airbus,330,2.0,turbo fan,0.0,1.0,10.0,1.0,004117N,0714130W,no,east hampton,ny
+"queens, ny",accident,2017-08-15,united states,non-fatal,airplane,boeing,757,2.0,turbo fan,0.0,0.0,0.0,0.0,403852N,0734556W,no,queens,ny
+"las vegas, nv",incident,2017-09-06,united states,non-fatal,airplane,boeing,757 232,2.0,turbo fan,0.0,0.0,0.0,0.0,003652N,0115913W,no,las vegas,nv
+"sioux city, ia",accident,2017-09-25,united states,non-fatal,airplane,boeing,737-8h4,2.0,turbo fan,0.0,1.0,0.0,1.0,422959N,0962515W,no,sioux city,ia
+"arlington, va",accident,2017-09-30,united states,non-fatal,airplane,airbus,a321 231,2.0,turbo fan,0.0,0.0,0.0,0.0,038540N,0007720W,no,arlington,va
+"chicago, il",accident,2017-10-02,united states,non-fatal,airplane,boeing,737 7h4,2.0,turbo fan,0.0,0.0,0.0,0.0,414711N,0874443W,no,chicago,il
+"honolulu, hi",accident,2017-10-15,united states,non-fatal,airplane,boeing,767 328,2.0,turbo fan,0.0,1.0,0.0,1.0,021194N,1575513W,no,honolulu,hi
+"los angeles, ca",accident,2017-11-19,united states,non-fatal,airplane,boeing,737 7h4,2.0,turbo fan,0.0,0.0,0.0,0.0,335642N,1182429W,no,los angeles,ca
+"atlanta, ga",incident,2017-11-29,united states,non-fatal,airplane,boeing,737-932er,2.0,turbo fan,0.0,0.0,0.0,0.0,334457N,0842323W,no,atlanta,ga
+"miami, fl",accident,2017-12-03,united states,non-fatal,airplane,airbus,a319 115,2.0,turbo fan,0.0,0.0,0.0,0.0,254736N,0801726W,no,miami,fl
+"fort lauderdale, fl",accident,2017-12-06,united states,non-fatal,airplane,airbus,a321 231,2.0,turbo fan,0.0,1.0,1.0,1.0,026421N,0080910W,no,fort lauderdale,fl
+"honolulu, hi",incident,2018-02-13,united states,non-fatal,airplane,boeing,777 222,2.0,turbo fan,0.0,0.0,0.0,0.0,021194N,1575513W,no,honolulu,hi
+"minneapolis, mn",accident,2018-02-24,united states,non-fatal,airplane,airbus,a330 323,2.0,turbo fan,0.0,1.0,2.0,1.0,044535N,0931256W,no,minneapolis,mn
+"philadelphia, pa",accident,2018-04-17,united states,fatal,airplane,boeing,737 7h4,2.0,turbo fan,1.0,8.0,125.0,8.0,395219N,0751424W,no,philadelphia,pa
+"atlanta, ga",accident,2018-04-18,united states,non-fatal,airplane,airbus,a330 323,2.0,turbo fan,0.0,0.0,0.0,0.0,unknown,unknown,no,atlanta,ga
+"alexandria, la",accident,2018-04-20,united states,non-fatal,airplane,mcdonnell douglas,dc 9 83(md-83),2.0,turbo fan,0.0,0.0,0.0,0.0,311939N,0923243W,no,alexandria,la
+"baltimore, md",accident,2018-05-07,united states,non-fatal,airplane,boeing,737-8h4,2.0,turbo fan,0.0,0.0,0.0,0.0,391045N,0076402W,no,baltimore,md
+"guayaquil,",incident,2018-05-08,united states,non-fatal,airplane,boeing,767,2.0,turbo fan,0.0,0.0,0.0,0.0,unknown,unknown,no,"guayaquil,",unknown
+"decatur, tx",accident,2018-06-10,united states,non-fatal,airplane,boeing,777 223,2.0,turbo fan,0.0,1.0,7.0,1.0,332029N,0973252W,no,decatur,tx
+"phoenix, az",accident,2018-06-12,united states,non-fatal,airplane,boeing,737-8h4,2.0,turbo fan,0.0,1.0,0.0,1.0,331537N,0112015W,no,phoenix,az
+"cut bank, mt",accident,2018-06-17,united states,non-fatal,airplane,embraer,erj175,2.0,turbo fan,0.0,1.0,0.0,1.0,484250N,1123220W,no,cut bank,mt
+"west palm beach, fl",accident,2018-07-23,united states,non-fatal,airplane,airbus,a319,2.0,turbo fan,0.0,1.0,1.0,1.0,264059N,0080544W,no,west palm beach,fl
+"portsmouth, nh",accident,2018-07-27,united states,non-fatal,airplane,boeing,767,2.0,turbo fan,0.0,0.0,0.0,0.0,043441N,0704924W,no,portsmouth,nh
+"philadelphia, pa",accident,2018-07-31,united states,non-fatal,airplane,boeing,757,2.0,turbo fan,0.0,0.0,0.0,0.0,395228N,0751433W,no,philadelphia,pa
+"los angeles, ca",accident,2018-08-13,united states,non-fatal,airplane,airbus,a321-271n,2.0,turbo fan,0.0,0.0,0.0,0.0,335629N,1182430W,no,los angeles,ca
+"new york, ny",accident,2018-09-06,united states,non-fatal,airplane,boeing,757,2.0,turbo fan,0.0,1.0,0.0,1.0,040452N,0735958W,no,new york,ny
+"atlanta, ga",incident,2018-09-06,united states,non-fatal,airplane,boeing,757,2.0,turbo fan,0.0,0.0,0.0,0.0,033450N,0842325W,no,atlanta,ga
+"newark, nj",accident,2018-09-24,united states,non-fatal,airplane,boeing,757,2.0,turbo fan,0.0,1.0,0.0,1.0,404133N,0074107W,no,newark,nj
+"dallas, tx",accident,2018-09-26,united states,non-fatal,airplane,airbus,a321,2.0,turbo fan,0.0,1.0,0.0,1.0,323238N,0097119W,no,dallas,tx
+"san jose, ca",accident,2018-10-11,united states,non-fatal,airplane,boeing,737,2.0,turbo fan,0.0,1.0,0.0,1.0,037200N,0121540W,no,san jose,ca
+"burbank, ca",incident,2018-12-06,united states,non-fatal,airplane,boeing,737,2.0,turbo fan,0.0,0.0,0.0,0.0,341124N,1181727W,no,burbank,ca
+"charlotte, nc",accident,2018-12-31,united states,non-fatal,airplane,boeing,757,2.0,turbo fan,0.0,0.0,0.0,0.0,351249N,0805656W,no,charlotte,nc
+"tuscaloosa, al",accident,2019-01-29,united states,non-fatal,airplane,boeing,727 200,3.0,turbo fan,0.0,0.0,0.0,0.0,331312N,0873636W,no,tuscaloosa,al
+"franklin, tn",accident,2019-02-18,united states,non-fatal,airplane,boeing,737,2.0,turbo fan,0.0,1.0,1.0,1.0,035545N,0865726W,no,franklin,tn
+"orlando, fl",incident,2019-02-21,united states,non-fatal,airplane,boeing,737,2.0,turbo fan,0.0,0.0,0.0,0.0,282553N,0811830W,no,orlando,fl
+"trinity bay, tx",accident,2019-02-23,united states,fatal,airplane,boeing,767,2.0,turbo fan,3.0,0.0,0.0,0.0,294612N,0943936W,no,trinity bay,tx
+"nashville, tn",accident,2019-03-28,united states,non-fatal,airplane,boeing,737,2.0,turbo fan,0.0,0.0,0.0,0.0,036728N,0864041W,no,nashville,tn
+"atlanta, ga",accident,2019-04-05,united states,non-fatal,airplane,mcdonnell douglas,md88,2.0,turbo fan,0.0,0.0,0.0,0.0,333838N,0842613W,no,atlanta,ga
+"jacksonville, fl",accident,2019-05-04,united states,non-fatal,airplane,boeing,737,2.0,turbo fan,0.0,0.0,1.0,0.0,301354N,0813937W,no,jacksonville,fl
+"waycross, ga",accident,2019-05-25,united states,non-fatal,airplane,boeing,737-8h4,2.0,turbo fan,0.0,1.0,1.0,1.0,305639N,0821148W,no,waycross,ga
+"denver, co",accident,2019-08-27,united states,non-fatal,airplane,airbus,a320,2.0,turbo fan,0.0,1.0,0.0,1.0,395142N,1044023W,no,denver,co
+"fort myers, fl",accident,2019-09-06,united states,non-fatal,airplane,airbus,a319,2.0,turbo fan,0.0,1.0,0.0,1.0,271457N,0811640W,no,fort myers,fl
+"chicago, il",accident,2019-11-11,united states,non-fatal,airplane,embraer,emb145,2.0,turbo fan,0.0,0.0,0.0,0.0,413458N,0873232W,no,chicago,il
+"disputanta, va",accident,2019-12-18,united states,non-fatal,airplane,embraer,erj190,2.0,turbo fan,0.0,1.0,0.0,1.0,375450N,0077828W,no,disputanta,va
+"new york, ny",accident,2020-01-08,united states,non-fatal,airplane,boeing,737,2.0,turbo fan,0.0,0.0,0.0,0.0,404637N,0735226W,no,new york,ny
+"new orleans, la",accident,2020-01-10,united states,non-fatal,airplane,airbus,a320,2.0,turbo fan,0.0,1.0,0.0,1.0,295738N,0090447W,no,new orleans,la
+"los angeles, ca",accident,2020-08-19,united states,non-fatal,airplane,boeing,767,2.0,turbo fan,0.0,1.0,0.0,1.0,033589N,1181422W,no,los angeles,ca
+"ontario, ca",incident,2021-01-29,united states,non-fatal,airplane,boeing,767-338,2.0,turbo fan,0.0,0.0,0.0,0.0,034322N,0117365W,no,ontario,ca
+"tacoma, wa",accident,2022-05-22,united states,non-fatal,airplane,boeing,737-700,2.0,turbo fan,0.0,0.0,1.0,0.0,047119N,1221625W,no,tacoma,wa
+"santa ana, ca",accident,2022-07-02,united states,non-fatal,airplane,boeing,737-700,2.0,turbo fan,0.0,1.0,0.0,1.0,334033N,0117525W,no,santa ana,ca
